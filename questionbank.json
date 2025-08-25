@@ -4,13 +4,15 @@
     "options": ["Draupadi Murmu", "Ram Nath Kovind", "Narendra Modi", "Pranab Mukherjee"],
     "answer": 0,
     "category": "India Affairs",
-    "date": "2025-08-25"
+    "date": "2025-08-25",
+    "explanation": "Draupadi Murmu became the 15th President of India in July 2022."
   },
   {
     "question": "Recently, Chandrayaan-4 was launched by which organisation?",
     "options": ["ISRO", "NASA", "ESA", "Roscosmos"],
     "answer": 0,
     "category": "World Affairs",
-    "date": "2025-08-23"
+    "date": "2025-08-23",
+    "explanation": "ISRO (Indian Space Research Organisation) continues its successful space missions with Chandrayaan-4."
   }
 ]
