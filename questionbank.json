@@ -1576,5 +1576,88 @@
     "answer": 0,
     "category": "Science: Mathematics",
     "difficulty
+  },
+  {
+"question": "Who is known as the 'Missile Man of India'?",
+"options": ["Dr. Homi Bhabha", "Dr. C.V. Raman", "Dr. A.P.J. Abdul Kalam", "Dr. S. Radhakrishnan"],
+"answer": 2,
+"category": "General Knowledge",
+"difficulty": "Easy",
+"explanation": "Dr. A.P.J. Abdul Kalam earned the title for his key role in India's missile development programs."
+},
+{
+"question": "Who was the first President of independent India?",
+"options": ["Jawaharlal Nehru", "Rajendra Prasad", "Indira Gandhi", "Dr. S. Radhakrishnan"],
+"answer": 1,
+"category": "History",
+"difficulty": "Easy",
+"explanation": "Dr. Rajendra Prasad was India's first President, serving from 1950-1962."
+},
+{
+"question": "Which Indian city is known as the Silicon Valley of India?",
+"options": ["Hyderabad", "Bangalore", "Pune", "Chennai"],
+"answer": 1,
+"category": "Science: Computers",
+"difficulty": "Easy",
+"explanation": "Bangalore is dubbed the Silicon Valley of India due to its IT industry and tech startups."
+},
+{
+"question": "Who wrote the epic 'Mahabharata'?",
+"options": ["Valmiki", "Tulsidas", "Ved Vyasa", "Kalidasa"],
+"answer": 2,
+"category": "Mythology",
+"difficulty": "Easy",
+"explanation": "Ved Vyasa composed the ancient Indian epic 'Mahabharata'."
+},
+{
+"question": "What is the capital of Rajasthan?",
+"options": ["Jodhpur", "Udaipur", "Jaipur", "Bikaner"],
+"answer": 2,
+"category": "Geography",
+"difficulty": "Easy",
+"explanation": "Jaipur, also called the Pink City, is the state capital of Rajasthan."
+},
+{
+"question": "Which Indian player has won the most Olympic medals?",
+"options": ["Mary Kom", "P.T. Usha", "Abhinav Bindra", "Sushil Kumar"],
+"answer": 3,
+"category": "Sports",
+"difficulty": "Medium",
+"explanation": "Sushil Kumar is the only Indian with two individual Olympic medals (Wrestling, 2008 and 2012)."
+},
+{
+"question": "The classical dance 'Bharatanatyam' belongs to which state?",
+"options": ["Tamil Nadu", "Kerala", "Odisha", "Andhra Pradesh"],
+"answer": 0,
+"category": "Art",
+"difficulty": "Easy",
+"explanation": "Bharatanatyam is a renowned Indian classical dance originating from Tamil Nadu."
+},
+{
+"question": "Who is the author of the Harry Potter series?",
+"options": ["J.K. Rowling", "Roald Dahl", "Rick Riordan", "C.S. Lewis"],
+"answer": 0,
+"category": "Entertainment: Books",
+"difficulty": "Easy",
+"explanation": "J.K. Rowling wove the magical world of Harry Potter through seven books."
+},
+{
+"question": "What is the smallest bone in the human body?",
+"options": ["Stapes", "Femur", "Ulna", "Radius"],
+"answer": 0,
+"category": "Science & Nature",
+"difficulty": "Medium",
+"explanation": "The tiny stapes bone, located in the middle ear, is the human body's smallest."
+},
+{
+"question": "Who directed the 2001 film 'Lagaan'?",
+"options": ["Karan Johar", "Ashutosh Gowariker", "Anurag Kashyap", "Rakeysh Omprakash Mehra"],
+"answer": 1,
+"category": "Entertainment: Film",
+"difficulty": "Medium",
+"explanation": "Ashutosh Gowariker directed the Oscar-nominated Indian movie 'Lagaan'."
+},
+]
+  
 
 
