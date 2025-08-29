@@ -14,5 +14,350 @@
     "category": "World Affairs",
     "date": "2025-08-23",
     "explanation": "ISRO (Indian Space Research Organisation) continues its successful space missions with Chandrayaan-4."
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "New Delhi serves as the capital of India and is the seat of all three branches of the Government of India, making it the country's political center."
+  },
+  {
+    "question": "Who wrote the Indian national anthem?",
+    "options": ["Bankim Chandra Chatterjee", "Sarojini Naidu", "Rabindranath Tagore", "S. Radhakrishnan"],
+    "answer": 2,
+    "category": "Culture",
+    "explanation": "Rabindranath Tagore wrote India's national anthem, 'Jana Gana Mana,' in Bengali in 1911; it was officially adopted by the Constituent Assembly in 1950."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Mars is called the Red Planet because of its reddish appearance caused by iron oxide, commonly known as rust, on its surface."
+  },
+  {
+    "question": "Who is known as the Missile Man of India?",
+    "options": ["Vikram Sarabhai", "Homi Bhabha", "Dr. APJ Abdul Kalam", "Satish Dhawan"],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "Dr. APJ Abdul Kalam played a pivotal role in India's missile development programs, earning him the nickname 'Missile Man of India.'"
+  },
+  {
+    "question": "Which gas do plants take in for photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Plants use carbon dioxide from the air during the process of photosynthesis to produce glucose and oxygen."
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["WO", "O2", "H2O", "OH"],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "The chemical formula H2O indicates that every water molecule is composed of two hydrogen atoms bonded to one oxygen atom."
+  },
+  {
+    "question": "Who invented light bulb?",
+    "options": ["Isaac Newton", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
+    "answer": 1,
+    "category": "Technology",
+    "explanation": "Thomas Edison is credited with inventing the practical and commercially viable incandescent light bulb in the late 19th century."
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Iron", "Quartz"],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Diamond is formed under high-pressure and high-temperature conditions, making it the hardest known natural material."
+  },
+  {
+    "question": "Which part of the human body produces insulin?",
+    "options": ["Heart", "Pancreas", "Stomach", "Liver"],
+    "answer": 1,
+    "category": "Biology",
+    "explanation": "Insulin, a hormone regulating blood sugar levels, is produced by beta cells in the pancreas."
+  },
+  {
+    "question": "Which element is used in making batteries?",
+    "options": ["Lead", "Nickel", "Lithium", "Potassium"],
+    "answer": 2,
+    "category": "Technology",
+    "explanation": "Lithium is a light, highly reactive metal with excellent electrochemical potential, making it ideal for rechargeable batteries."
+  },
+  {
+    "question": "What is the powerhouse of a cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Body"],
+    "answer": 2,
+    "category": "Biology",
+    "explanation": "Mitochondria are often referred to as the powerhouse of the cell because they generate most of the cell’s energy as ATP."
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": ["Charles Babbage", "Bill Gates", "Alan Turing", "John Napier"],
+    "answer": 0,
+    "category": "Technology",
+    "explanation": "Charles Babbage designed the first automatic mechanical computer, known as the Analytical Engine, in the 19th century."
+  },
+  {
+    "question": "What is the largest continent by area?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Asia is the world’s largest continent both in area and population, covering about one-third of the Earth's surface."
+  },
+  {
+    "question": "Which river is known as the longest in the world?",
+    "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": 3,
+    "category": "Geography",
+    "explanation": "The Nile River, stretching about 6,650 km, is generally regarded as the longest river in the world, though some sources list the Amazon."
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Antarctica"],
+    "answer": 3,
+    "category": "Geography",
+    "explanation": "While Sahara is the largest hot desert, the Antarctic polar desert is the world's largest desert overall by area."
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": 3,
+    "category": "Geography",
+    "explanation": "The Pacific Ocean covers more than 63 million square miles, making it the largest and deepest ocean on Earth."
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": 1,
+    "category": "Technology",
+    "explanation": "Alexander Graham Bell was awarded the first US patent for the invention of the telephone in 1876."
+  },
+  {
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Gujarat"],
+    "answer": 0,
+    "category": "Geography",
+    "explanation": "Punjab, whose name means 'five waters,' is intersected by five major rivers—Beas, Chenab, Jhelum, Ravi, and Sutlej."
+  },
+  {
+    "question": "In which year did India become a republic?",
+    "options": ["1947", "1950", "1952", "1962"],
+    "answer": 1,
+    "category": "History",
+    "explanation": "India became a sovereign republic on 26 January 1950 when its Constitution came into effect, replacing the Government of India Act (1935)."
+  },
+  {
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Sonia Gandhi", "Sarojini Naidu", "Indira Gandhi", "Vijaya Lakshmi Pandit"],
+    "answer": 2,
+    "category": "Politics",
+    "explanation": "Indira Gandhi became India’s first and, to date, only woman Prime Minister in 1966."
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Joseph Lister", "Alexander Fleming", "Edward Jenner"],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "Alexander Fleming discovered the antibiotic properties of penicillin in 1928, revolutionizing medical treatment."
+  },
+  {
+    "question": "What is the national bird of India?",
+    "options": ["Peacock", "Sparrow", "Crow", "Pigeon"],
+    "answer": 0,
+    "category": "Indian Symbols",
+    "explanation": "Indian peacock is known for its majestic plumage and is recognized as the national bird of India, symbolizing grace and beauty."
+  },
+  {
+    "question": "The festival of lights is known as?",
+    "options": ["Holi", "Diwali", "Navratri", "Eid"],
+    "answer": 1,
+    "category": "Culture",
+    "explanation": "Diwali is one of the most popular Hindu festivals, symbolizing the triumph of light over darkness and good over evil."
+  },
+  {
+    "question": "Who is the current President of India as of 2025?",
+    "options": ["Ram Nath Kovind", "Draupadi Murmu", "Amit Shah", "Narendra Modi"],
+    "answer": 1,
+    "category": "India Current Affairs",
+    "explanation": "Draupadi Murmu has been serving as the 15th President of India since July 2022, notable for being the country's first tribal president."
+  },
+  {
+    "question": "Who was the main mastermind behind the South Sea Bubble of 1720 in England?",
+    "options": ["Daniel Defoe", "Robert Harley", "John Churchill", "John Blunt"],
+    "answer": 3,
+    "category": "World History",
+    "explanation": "Sir John Blunt orchestrated the infamous South Sea Bubble, one of the earliest major financial crashes in market history."
+  },
+  {
+    "question": "Which Indian is known as the 'Father of the Green Revolution'?",
+    "options": ["Norman Borlaug", "MS Swaminathan", "Verghese Kurien", "C Subramaniam"],
+    "answer": 1,
+    "category": "Agriculture/History",
+    "explanation": "MS Swaminathan led India’s Green Revolution in the 1960s-70s, introducing high-yield crop technology for food security."
+  },
+  {
+    "question": "Which company recently launched the quantum processor Willow?",
+    "options": ["Microsoft", "Google", "Meta", "Amazon"],
+    "answer": 1,
+    "category": "Current Affairs",
+    "explanation": "In 2025, Google launched 'Willow', one of the world's most powerful quantum processors, advancing the race in quantum computing."
+  },
+  {
+    "question": "Which country hosted the AI Action Summit 2025?",
+    "options": ["New York", "Paris", "Geneva", "Tokyo"],
+    "answer": 1,
+    "category": "International Events",
+    "explanation": "Paris hosted the AI Action Summit 2025, bringing together world leaders to discuss the future of artificial intelligence."
+  },
+  {
+    "question": "Which state’s tableau won the first prize at the Republic Day Parade 2025?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh", "Rajasthan"],
+    "answer": 2,
+    "category": "Current Affairs",
+    "explanation": "Uttar Pradesh’s tableau won the top prize at the 2025 Republic Day Parade due to its innovative representation of state progress."
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bengal'?",
+    "options": ["Ganga", "Brahmaputra", "Damodar", "Yamuna"],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "The Damodar River is called 'Sorrow of Bengal' due to its frequent and devastating floods before the construction of dams."
+  },
+  {
+    "question": "Who is known as the 'Father of Nation' in India?",
+    "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Patel", "Mahatma Gandhi"],
+    "answer": 3,
+    "category": "History",
+    "explanation": "Mahatma Gandhi led India's nonviolent independence movement; the title recognizes his unique role in the national struggle."
+  },
+  {
+    "question": "In computers, what does URL stand for?",
+    "options": ["Uniform Resource Locator", "Universal Reader Locator", "Universal Resource Link", "Uniform Reading Link"],
+    "answer": 0,
+    "category": "Technology",
+    "explanation": "URL stands for Uniform Resource Locator and refers to the address of a resource (like a webpage) on the Internet."
+  },
+  {
+    "question": "Which Indian city is known as the 'Pink City'?",
+    "options": ["Jodhpur", "Jaipur", "Udaipur", "Ahmedabad"],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Jaipur is famously called 'Pink City' because of the color scheme of its historic buildings, first painted for a royal visit."
+  },
+  {
+    "question": "Which country abolished the death penalty in January 2025?",
+    "options": ["Zimbabwe", "Iraq", "Kuwait", "Ethiopia"],
+    "answer": 0,
+    "category": "World Affairs",
+    "explanation": "In January 2025, Zimbabwe abolished the death penalty, making a major step in human rights reforms on the African continent."
+  },
+  {
+    "question": "Which Indian sportsperson won the India Open 2025 men’s singles title?",
+    "options": ["Kidambi Srikanth", "H.S. Prannoy", "Viktor Axelsen", "Anthony Ginting"],
+    "answer": 2,
+    "category": "Sports",
+    "explanation": "Danish badminton player Viktor Axelsen won the India Open 2025 men's singles, showing consistent dominance on the BWF World Tour."
+  },
+  {
+    "question": "Which player of the Indian women’s cricket team was appointed as DSP in UP Police?",
+    "options": ["Harmanpreet Kaur", "Smriti Mandhana", "Deepti Sharma", "Richa Ghosh"],
+    "answer": 2,
+    "category": "Sports/Current Affairs",
+    "explanation": "All-rounder Deepti Sharma was appointed as Deputy Superintendent of Police in Uttar Pradesh in recognition of her cricket achievements."
+  },
+  {
+    "question": "What is the name of India’s first indigenously developed aircraft carrier?",
+    "options": ["INS Vikrant", "INS Virat", "INS Arihant", "INS Kolkata"],
+    "answer": 0,
+    "category": "Indian Defence",
+    "explanation": "INS Vikrant is India's first homemade aircraft carrier, enhancing India's maritime strength and security."
+  },
+  {
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": ["Camel", "Horse", "Donkey", "Elephant"],
+    "answer": 0,
+    "category": "Biology",
+    "explanation": "Camels are called 'Ship of the Desert' due to their ability to travel long distances in harsh desert climates, carrying loads."
+  },
+  {
+    "question": "Which is the highest mountain peak in India?",
+    "options": ["Mount Everest", "Kanchenjunga", "Nanda Devi", "Kamet"],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Kanchenjunga, located at the India-Nepal border, is the highest mountain peak in India and the third highest in the world."
+  },
+  {
+    "question": "Who composed the Ramayana?",
+    "options": ["Valmiki", "Tulsidas", "Vedavyasa", "Kalidasa"],
+    "answer": 0,
+    "category": "Culture",
+    "explanation": "The ancient Sanskrit epic Ramayana was written by sage Valmiki and describes the life of Prince Rama."
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea", "Thailand"],
+    "answer": 1,
+    "category": "World Geography",
+    "explanation": "Japan is called the Land of the Rising Sun due to its eastern position relative to Asia and the kanji characters for its name."
+  },
+  {
+    "question": "Which festival marks the start of the harvest season in Punjab?",
+    "options": ["Baisakhi", "Lohri", "Holi", "Diwali"],
+    "answer": 0,
+    "category": "Culture",
+    "explanation": "Baisakhi, celebrated each April, marks the beginning of the harvest season and is significant for Punjabis and Sikhs."
+  },
+  {
+    "question": "Who was awarded the Bharat Ratna in 2019 for contributions to agriculture?",
+    "options": ["MS Swaminathan", "Pranab Mukherjee", "Nanaji Deshmukh", "Bhupen Hazarika"],
+    "answer": 0,
+    "category": "Awards",
+    "explanation": "MS Swaminathan, an agricultural scientist, was awarded Bharat Ratna for his leadership in India's Green Revolution."
+  },
+  {
+    "question": "Which Indian leader popularized the slogan 'Jai Jawan Jai Kisan'?",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"],
+    "answer": 1,
+    "category": "History",
+    "explanation": "Lal Bahadur Shastri, India's second Prime Minister, gave the slogan during the 1965 Indo-Pak war emphasizing soldiers and farmers."
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mars", "Venus", "Earth", "Mercury"],
+    "answer": 3,
+    "category": "Science",
+    "explanation": "Mercury orbits nearest to the Sun and has the shortest orbital period among all the planets in our solar system."
+  },
+  {
+    "question": "Name the world's largest island.",
+    "options": ["Australia", "Greenland", "New Guinea", "Borneo"],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Greenland is the world's largest island that is not a continent, covering over 2 million square kilometers."
+  },
+  {
+    "question": "Which city is called the 'Silicon Valley of India'?",
+    "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
+    "answer": 2,
+    "category": "Geography/Industry",
+    "explanation": "Bengaluru (Bangalore) is called India’s Silicon Valley for its large IT industry, tech startups, and skilled workforce."
+  },
+  {
+    "question": "Who was India's first President?",
+    "options": ["Rajendra Prasad", "Sarvepalli Radhakrishnan", "Zakir Hussain", "VV Giri"],
+    "answer": 0,
+    "category": "History",
+    "explanation": "Dr. Rajendra Prasad served as the first President of independent India from 1950 to 1962."
+  },
+  {
+    "question": "Which country recently sent the world’s first private lunar lander (2024)?",
+    "options": ["Japan", "USA", "Russia", "India"],
+    "answer": 0,
+    "category": "Current Affairs/Space",
+    "explanation": "Japan's ispace launched Hakuto-R, which became the world’s first private Lunar lander in 2024 (though the landing itself was unsuccessful)."
   }
 ]
+
+
