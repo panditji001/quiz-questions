@@ -1065,6 +1065,516 @@
     "answer": 1,
     "category": "Science",
     "explanation": "Olympus Mons on Mars is the largest volcano in the solar system
-
+  },
+  {
+    "question": "Which computer company created the Macintosh in 1984?",
+    "options": ["IBM", "Apple", "Microsoft", "Dell"],
+    "answer": 1,
+    "category": "Science: Computers",
+    "difficulty": "Medium",
+    "explanation": "Apple launched the Macintosh in 1984, revolutionizing personal computers with a graphical user interface."
+  },
+  {
+    "question": "Who composed the music for the film 'Inception'?",
+    "options": ["John Williams", "Hans Zimmer", "James Horner", "Alan Silvestri"],
+    "answer": 1,
+    "category": "Entertainment: Film",
+    "difficulty": "Easy",
+    "explanation": "Hans Zimmer's innovative score, especially 'Time,' became iconic in 'Inception.'"
+  },
+  {
+    "question": "What is the process by which plants lose water vapor through their leaves?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "answer": 1,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "Transpiration is the process where plants release water vapor from the stomata in their leaves."
+  },
+  {
+    "question": "Which planet in our Solar System has the most moons (as of 2025)?",
+    "options": ["Jupiter", "Neptune", "Uranus", "Saturn"],
+    "answer": 3,
+    "category": "Science & Nature",
+    "difficulty": "Medium",
+    "explanation": "Saturn surpassed Jupiter with 146 confirmed moons as of 2025."
+  },
+  {
+    "question": "In Greek myth, who performed the 12 labors?",
+    "options": ["Achilles", "Odysseus", "Heracles", "Theseus"],
+    "answer": 2,
+    "category": "Mythology",
+    "difficulty": "Easy",
+    "explanation": "Heracles (Hercules in Roman mythology) was tasked with 12 nearly impossible labors."
+  },
+  {
+    "question": "Who is the main character of the anime 'Attack on Titan'?",
+    "options": ["Eren Yeager", "Guts", "Light Yagami", "Shinji Ikari"],
+    "answer": 0,
+    "category": "Entertainment: Japanese Anime & Manga",
+    "difficulty": "Easy",
+    "explanation": "Eren Yeager is the protagonist, fighting to free humanity from Titans."
+  },
+  {
+    "question": "In mathematics, what is the value of π (pi) to 3 decimal places?",
+    "options": ["3.141", "3.142", "3.143", "3.144"],
+    "answer": 1,
+    "category": "Science: Mathematics",
+    "difficulty": "Easy",
+    "explanation": "Pi (π) is approximately 3.142 to three decimal places."
+  },
+  {
+    "question": "Which legendary musician was known as 'The King of Pop'?",
+    "options": ["Prince", "Elvis Presley", "Michael Jackson", "Freddie Mercury"],
+    "answer": 2,
+    "category": "Entertainment: Music",
+    "difficulty": "Easy",
+    "explanation": "Michael Jackson was globally known as 'The King of Pop.'"
+  },
+  {
+    "question": "What single word is used for a group of lions?",
+    "options": ["Pack", "Flock", "Pride", "Herd"],
+    "answer": 2,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "explanation": "A 'pride' is the term for a group of lions."
+  },
+  {
+    "question": "Which element has the highest atomic number?",
+    "options": ["Uranium", "Gold", "Oganesson", "Plutonium"],
+    "answer": 2,
+    "category": "Science & Nature",
+    "difficulty": "Medium",
+    "explanation": "Oganesson currently has the highest atomic number (118) known."
+  },
+  {
+    "question": "Who wrote the 1960 novel 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.D. Salinger", "Toni Morrison", "Ernest Hemingway"],
+    "answer": 0,
+    "category": "Entertainment: Books",
+    "difficulty": "Easy",
+    "explanation": "Harper Lee's only published novel during her lifetime was this classic."
+  },
+  {
+    "question": "Which car company produces the 'Civic'?",
+    "options": ["Toyota", "Honda", "Ford", "Volkswagen"],
+    "answer": 1,
+    "category": "Vehicles",
+    "difficulty": "Easy",
+    "explanation": "The Honda Civic is one of the world's best-selling cars."
+  },
+  {
+    "question": "Who hosted 'The Tonight Show' before Jimmy Fallon?",
+    "options": ["David Letterman", "Jay Leno", "Conan O'Brien", "Johnny Carson"],
+    "answer": 1,
+    "category": "Entertainment: Television",
+    "difficulty": "Medium",
+    "explanation": "Jay Leno was the main host before passing on the show to Jimmy Fallon."
+  },
+  {
+    "question": "Which animal is the fastest in the air?",
+    "options": ["Bald Eagle", "Peregrine Falcon", "Albatross", "Sparrowhawk"],
+    "answer": 1,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "explanation": "The Peregrine Falcon dives at speeds over 300 km/h, making it the fastest animal in the air."
+  },
+  {
+    "question": "In what sport would you perform a slam dunk?",
+    "options": ["Football", "Volleyball", "Basketball", "Tennis"],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "Easy",
+    "explanation": "A slam dunk is a popular move in basketball."
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Salvador Dali", "Pablo Picasso"],
+    "answer": 1,
+    "category": "Art",
+    "difficulty": "Easy",
+    "explanation": "Vincent van Gogh painted this masterpiece in 1889."
+  },
+  {
+    "question": "What is the capital city of Kenya?",
+    "options": ["Nairobi", "Kigali", "Addis Ababa", "Accra"],
+    "answer": 0,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "explanation": "Nairobi is the business and political capital of Kenya."
+  },
+  {
+    "question": "Which US President was impeached in 1998?",
+    "options": ["Ronald Reagan", "Bill Clinton", "George W. Bush", "Barack Obama"],
+    "answer": 1,
+    "category": "Politics",
+    "difficulty": "Medium",
+    "explanation": "Bill Clinton was impeached by the House, though acquitted by the Senate."
+  },
+  {
+    "question": "Which video game depicted the city of 'Vice City'?",
+    "options": ["Grand Theft Auto III", "Grand Theft Auto: Vice City", "Saints Row", "Far Cry 3"],
+    "answer": 1,
+    "category": "Entertainment: Video Games",
+    "difficulty": "Medium",
+    "explanation": "'Vice City' is part of the 'Grand Theft Auto' series, set in a city inspired by Miami."
+  },
+  {
+    "question": "Who is considered the patron saint of Ireland?",
+    "options": ["Saint George", "Saint Andrew", "Saint Patrick", "Saint David"],
+    "answer": 2,
+    "category": "Mythology",
+    "difficulty": "Easy",
+    "explanation": "Saint Patrick is celebrated every 17th of March as Ireland's patron."
+  },
+  {
+    "question": "The Nobel Peace Prize is awarded in which city?",
+    "options": ["Stockholm", "Geneva", "Oslo", "Copenhagen"],
+    "answer": 2,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "explanation": "All other Nobel Prizes are awarded in Stockholm, but the Peace Prize is awarded in Oslo, Norway."
+  },
+  {
+    "question": "Who is the artist of the 2021 hit 'Montero (Call Me By Your Name)'?",
+    "options": ["Drake", "Lil Nas X", "Billie Eilish", "Doja Cat"],
+    "answer": 1,
+    "category": "Entertainment: Music",
+    "difficulty": "Medium",
+    "explanation": "Lil Nas X released this controversial and viral song in 2021."
+  },
+  {
+    "question": "What is the chemical symbol for the element silver?",
+    "options": ["Si", "Sb", "Ag", "Au"],
+    "answer": 2,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "Ag symbolizes silver, from the Latin 'argentum.'"
+  },
+  {
+    "question": "Which mathematician is famous for his Last Theorem proven in 1994?",
+    "options": ["Leonhard Euler", "Pierre de Fermat", "Carl Gauss", "Isaac Newton"],
+    "answer": 1,
+    "category": "Science: Mathematics",
+    "difficulty": "Hard",
+    "explanation": "Fermat's Last Theorem was unsolved until Andrew Wiles' proof in 1994."
+  },
+  {
+    "question": "Which animal is considered the largest living reptile?",
+    "options": ["Komodo Dragon", "Green Anaconda", "Saltwater Crocodile", "Leatherback Turtle"],
+    "answer": 2,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "explanation": "The saltwater crocodile can grow beyond 20 feet and over 1,000 kg."
+  },
+  {
+    "question": "What vehicle manufacturer makes the 'Model S'?",
+    "options": ["Ford", "Tesla", "Chevrolet", "Hyundai"],
+    "answer": 1,
+    "category": "Vehicles",
+    "difficulty": "Easy",
+    "explanation": "The all-electric Model S sedan is produced by Tesla."
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Korea", "Australia"],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "explanation": "Japan is often called 'Nihon' or 'Nippon,' meaning 'origin of the sun.'"
+  },
+  {
+    "question": "Who was the first female British Prime Minister?",
+    "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Elizabeth II"],
+    "answer": 1,
+    "category": "Politics",
+    "difficulty": "Medium",
+    "explanation": "Margaret Thatcher served as Britain's first female PM from 1979 to 1990."
+  },
+  {
+    "question": "In which musical would you find the song 'Defying Gravity'?",
+    "options": ["Les Misérables", "Wicked", "Cats", "Chicago"],
+    "answer": 1,
+    "category": "Entertainment: Musicals & Theatres",
+    "difficulty": "Easy",
+    "explanation": "'Defying Gravity' is the signature song from the musical 'Wicked.'"
+  },
+  {
+    "question": "Which superhero has an alter ego named Bruce Wayne?",
+    "options": ["Superman", "Spider-Man", "Iron Man", "Batman"],
+    "answer": 3,
+    "category": "Entertainment: Comics",
+    "difficulty": "Easy",
+    "explanation": "Bruce Wayne is the billionaire identity of Batman."
+  },
+  {
+    "question": "What is the main ingredient of the Japanese dish sushi?",
+    "options": ["Rice", "Fish", "Soy", "Seaweed"],
+    "answer": 0,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "explanation": "Although sushi often contains fish, vinegared rice is the essential ingredient."
+  },
+  {
+    "question": "Which person was Time magazine’s Person of the Year in 2021?",
+    "options": ["Joe Biden", "Elon Musk", "Greta Thunberg", "Jeff Bezos"],
+    "answer": 1,
+    "category": "Celebrities",
+    "difficulty": "Medium",
+    "explanation": "Elon Musk was recognized for his influence on tech and business."
+  },
+  {
+    "question": "Which scientist developed the general theory of relativity?",
+    "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Marie Curie"],
+    "answer": 2,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "Einstein’s theory revolutionized physics in the early 20th century."
+  },
+  {
+    "question": "In the board game Clue, which room is NOT on the board?",
+    "options": ["Kitchen", "Library", "Study", "Ballroom", "Attic"],
+    "answer": 4,
+    "category": "Entertainment: Board Games",
+    "difficulty": "Medium",
+    "explanation": "Classic Clue does not have an 'Attic' as a room."
+  },
+  {
+    "question": "Which pop star released the song 'Shape of You' in 2017?",
+    "options": ["Shawn Mendes", "Ed Sheeran", "Adele", "Justin Bieber"],
+    "answer": 1,
+    "category": "Entertainment: Music",
+    "difficulty": "Easy",
+    "explanation": "'Shape of You' became one of Ed Sheeran's biggest global hits."
+  },
+  {
+    "question": "Which star is closest to the Earth?",
+    "options": ["Polaris", "Proxima Centauri", "Sirius", "The Sun"],
+    "answer": 3,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "The Sun is the closest star at the center of the Solar System."
+  },
+  {
+    "question": "What is the title of the first 'Harry Potter' book?",
+    "options": ["Chamber of Secrets", "Goblet of Fire", "Philosopher's Stone", "Prisoner of Azkaban"],
+    "answer": 2,
+    "category": "Entertainment: Books",
+    "difficulty": "Easy",
+    "explanation": "The series debuts with 'Harry Potter and the Philosopher's Stone' (or 'Sorcerer's' in the US)."
+  },
+  {
+    "question": "Which famous river runs through Egypt?",
+    "options": ["Amazon", "Ganges", "Nile", "Danube"],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "explanation": "The Nile is the longest river, vital to Egyptian civilization."
+  },
+  {
+    "question": "What is the hardest natural material on Earth?",
+    "options": ["Quartz", "Diamond", "Ruby", "Corundum"],
+    "answer": 1,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "Diamonds rank highest on the Mohs scale of mineral hardness."
+  },
+  {
+    "question": "What is the name of Batman’s butler?",
+    "options": ["Jarvis", "Alfred", "Jeeves", "Higgins"],
+    "answer": 1,
+    "category": "Entertainment: Comics",
+    "difficulty": "Easy",
+    "explanation": "Alfred Pennyworth is Bruce Wayne's loyal aide and confidant."
+  },
+  {
+    "question": "Who played the character Iron Man in Marvel films?",
+    "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+    "answer": 1,
+    "category": "Entertainment: Film",
+    "difficulty": "Medium",
+    "explanation": "Robert Downey Jr. made the Marvel character Tony Stark unforgettable."
+  },
+  {
+    "question": "Which element is represented by the chemical symbol 'O'?",
+    "options": ["Gold", "Oxygen", "Osmium", "Opal"],
+    "answer": 1,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "The letter 'O' stands for the gas oxygen."
+  },
+  {
+    "question": "The mathematician Alan Turing is famous for his work in which field?",
+    "options": ["Astronomy", "Computer Science", "Chemistry", "Physics"],
+    "answer": 1,
+    "category": "Science: Computers",
+    "difficulty": "Medium",
+    "explanation": "Turing's theories form the foundation of computer science."
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "options": ["New Zealand", "South Africa", "Australia", "Canada"],
+    "answer": 2,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "explanation": "Kangaroos are native to Australia."
+  },
+  {
+    "question": "In 'Pokémon', what type is Pikachu?",
+    "options": ["Water", "Electric", "Fire", "Grass"],
+    "answer": 1,
+    "category": "Entertainment: Japanese Anime & Manga",
+    "difficulty": "Easy",
+    "explanation": "Pikachu is an electric-type Pokémon, known for its lightning attacks."
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "options": ["Rice", "Tofu", "Soybean paste", "Seaweed"],
+    "answer": 2,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "explanation": "Miso soup is named after its main ingredient, fermented soybean paste."
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+    "answer": 0,
+    "category": "Entertainment: Books",
+    "difficulty": "Easy",
+    "explanation": "Tolkien published 'The Hobbit' in 1937, building the foundation for 'The Lord of the Rings.'"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["France", "Canada", "Italy", "United Kingdom"],
+    "answer": 0,
+    "category": "History",
+    "difficulty": "Medium",
+    "explanation": "France gifted the iconic Statue of Liberty in 1886 to celebrate the American centennial."
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "options": ["1910", "1912", "1914", "1916"],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "Medium",
+    "explanation": "The Titanic struck an iceberg and sank in April 1912."
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["Asia", "Africa", "Australia", "Europe"],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "explanation": "The Sahara is in North Africa and is the world's largest hot desert."
+  },
+  {
+    "question": "What do we call a polygon with six sides?",
+    "options": ["Pentagon", "Hexagon", "Heptagon", "Octagon"],
+    "answer": 1,
+    "category": "Science: Mathematics",
+    "difficulty": "Easy",
+    "explanation": "A hexagon is a six-sided polygon."
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "options": ["Brazil", "Germany", "France", "Argentina"],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "Medium",
+    "explanation": "France beat Croatia 4–2 in 2018 to win their second World Cup title."
+  },
+  {
+    "question": "Which fruit is a main symbol of the Chinese New Year?",
+    "options": ["Apple", "Banana", "Orange", "Durian"],
+    "answer": 2,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "explanation": "Oranges and tangerines are symbols of good luck in Chinese culture."
+  },
+  {
+    "question": "In which year was Nintendo founded?",
+    "options": ["1889", "1941", "1977", "2001"],
+    "answer": 0,
+    "category": "Entertainment: Video Games",
+    "difficulty": "Hard",
+    "explanation": "Nintendo began as a playing card company in 1889, long before video games."
+  },
+  {
+    "question": "Which composer wrote the 'Moonlight Sonata'?",
+    "options": ["Mozart", "Chopin", "Beethoven", "Bach"],
+    "answer": 2,
+    "category": "Entertainment: Music",
+    "difficulty": "Medium",
+    "explanation": "Ludwig van Beethoven composed this famous piano sonata in 1801."
+  },
+  {
+    "question": "What is the collective noun for a group of crows?",
+    "options": ["Parliament", "Murder", "School", "Bouquet"],
+    "answer": 1,
+    "category": "Animals",
+    "difficulty": "Medium",
+    "explanation": "A 'murder of crows' is the traditional collective noun."
+  },
+  {
+    "question": "Who created the Marvel character Spider-Man?",
+    "options": ["Stan Lee & Steve Ditko", "Jack Kirby & Stan Lee", "Joe Simon & Jack Kirby", "Bob Kane & Bill Finger"],
+    "answer": 0,
+    "category": "Entertainment: Comics",
+    "difficulty": "Medium",
+    "explanation": "Spider-Man was created in 1962 by writer Stan Lee and artist Steve Ditko."
+  },
+  {
+    "question": "In which country is the famous landmark Machu Picchu located?",
+    "options": ["Peru", "Chile", "Colombia", "Mexico"],
+    "answer": 0,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "explanation": "Machu Picchu is an ancient Incan citadel in Peru."
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Edward Jenner"],
+    "answer": 1,
+    "category": "Science & Nature",
+    "difficulty": "Easy",
+    "explanation": "Scottish scientist Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "question": "Which animal can change its color for camouflage?",
+    "options": ["Octopus", "Frog", "Chameleon", "Gecko"],
+    "answer": 2,
+    "category": "Animals",
+    "difficulty": "Easy",
+    "explanation": "Chameleons are well-known for their color-changing skin."
+  },
+  {
+    "question": "What instrument measures atmospheric pressure?",
+    "options": ["Barometer", "Thermometer", "Anemometer", "Altimeter"],
+    "answer": 0,
+    "category": "Science & Nature",
+    "difficulty": "Medium",
+    "explanation": "A barometer measures the pressure of the atmosphere."
+  },
+  {
+    "question": "Which board game uses the phrase 'Do not pass Go, do not collect $200'?",
+    "options": ["Clue", "Sorry!", "Monopoly", "The Game of Life"],
+    "answer": 2,
+    "category": "Entertainment: Board Games",
+    "difficulty": "Easy",
+    "explanation": "Monopoly features this phrase when a player is sent to jail."
+  },
+  {
+    "question": "Who is the main protagonist of the anime 'Death Note'?",
+    "options": ["Naruto Uzumaki", "Light Yagami", "Edward Elric", "Monkey D. Luffy"],
+    "answer": 1,
+    "category": "Entertainment: Japanese Anime & Manga",
+    "difficulty": "Medium",
+    "explanation": "Light Yagami discovers a notebook that can kill people in 'Death Note.'"
+  },
+  {
+    "question": "What is the only even prime number?",
+    "options": ["2", "4", "6", "8"],
+    "answer": 0,
+    "category": "Science: Mathematics",
+    "difficulty
 
 
