@@ -357,7 +357,714 @@
     "answer": 0,
     "category": "Current Affairs/Space",
     "explanation": "Japan's ispace launched Hakuto-R, which became the world’s first private Lunar lander in 2024 (though the landing itself was unsuccessful)."
-  }
-]
+  },
+  {
+    "question": "Which is the smallest bone in the human body?",
+    "options": [
+      "Stapes",
+      "Malleus",
+      "Incus",
+      "Femur"
+    ],
+    "answer": 0,
+    "category": "Biology",
+    "explanation": "The stapes, located in the middle ear, is the smallest bone in the human body, measuring only about 2-3 millimeters in length."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "answer": 2,
+    "category": "Economics",
+    "explanation": "The Japanese Yen is the official currency of Japan and is one of the most traded currencies in the world."
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Maharashtra",
+      "Andhra Pradesh"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Gujarat has the longest coastline among Indian states, stretching approximately 1,600 kilometers along the Arabian Sea."
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Mark Zuckerberg"
+    ],
+    "answer": 2,
+    "category": "Technology",
+    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN, creating the foundation of the modern internet."
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Skin"
+    ],
+    "answer": 3,
+    "category": "Biology",
+    "explanation": "The skin is the largest organ in the human body, covering the entire exterior and accounting for about 16% of total body weight."
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": [
+      "England",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "answer": 1,
+    "category": "History",
+    "explanation": "France gifted the Statue of Liberty to the United States in 1886 as a symbol of friendship and shared democratic values."
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Deoxyribose Nucleic Acid",
+      "Dinitrogen Acid",
+      "Dynamic Nuclear Acid"
+    ],
+    "answer": 0,
+    "category": "Biology",
+    "explanation": "DNA stands for Deoxyribonucleic Acid, which carries genetic information in all living organisms."
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Leopard",
+      "Tiger"
+    ],
+    "answer": 1,
+    "category": "Biology",
+    "explanation": "The cheetah can reach speeds up to 70 mph (112 km/h), making it the fastest land animal in the world."
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Bronte",
+      "Emily Dickinson",
+      "Jane Austen",
+      "Virginia Woolf"
+    ],
+    "answer": 2,
+    "category": "Literature",
+    "explanation": "Jane Austen wrote 'Pride and Prejudice' in 1813, one of the most famous novels in English literature."
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Saturn has the most confirmed moons with 146 known satellites, surpassing Jupiter's 95 confirmed moons."
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "CaCl2",
+      "MgCl2"
+    ],
+    "answer": 0,
+    "category": "Chemistry",
+    "explanation": "Table salt is sodium chloride with the chemical formula NaCl, consisting of sodium and chlorine ions."
+  },
+  {
+    "question": "Which Indian city is known as the 'Garden City'?",
+    "options": [
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Bengaluru is known as the 'Garden City' due to its numerous parks, gardens, and pleasant climate."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": 2,
+    "category": "Art",
+    "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503-1519, making it one of the world's most famous paintings."
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "answer": 1,
+    "category": "Biology",
+    "explanation": "The blue whale is the largest mammal and animal ever known to exist, reaching lengths up to 100 feet."
+  },
+  {
+    "question": "Which gas makes up approximately 78% of Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "Nitrogen comprises about 78% of Earth's atmosphere, with oxygen making up approximately 21%."
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "John Glenn",
+      "Alan Shepard"
+    ],
+    "answer": 1,
+    "category": "History",
+    "explanation": "Neil Armstrong was the first human to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+  },
+  {
+    "question": "Which Indian festival celebrates the victory of good over evil?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Dussehra",
+      "Navratri"
+    ],
+    "answer": 2,
+    "category": "Culture",
+    "explanation": "Dussehra celebrates the victory of Lord Rama over Ravana, symbolizing the triumph of good over evil."
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 1,
+    "category": "Mathematics",
+    "explanation": "The square root of 144 is 12, as 12 × 12 = 144."
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": [
+      "Finland",
+      "Norway",
+      "Sweden",
+      "Iceland"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "Norway is called the 'Land of the Midnight Sun' because parts of the country experience continuous daylight during summer months."
+  },
+  {
+    "question": "Who discovered radioactivity?",
+    "options": [
+      "Marie Curie",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "Pierre Curie"
+    ],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Henri Becquerel discovered radioactivity in 1896, for which he shared the Nobel Prize with Marie and Pierre Curie."
+  },
+  {
+    "question": "Which is the longest river in Asia?",
+    "options": [
+      "Ganges",
+      "Mekong",
+      "Yangtze",
+      "Yellow River"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "The Yangtze River in China is Asia's longest river, stretching approximately 6,300 kilometers."
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transport Protocol",
+      "High Text Transfer Protocol"
+    ],
+    "answer": 0,
+    "category": "Technology",
+    "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of data communication on the World Wide Web."
+  },
+  {
+    "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "category": "Biology",
+    "explanation": "Vitamin D is synthesized in the skin when exposed to ultraviolet B radiation from sunlight."
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "options": [
+      "William Shakespeare",
+      "John Milton",
+      "Geoffrey Chaucer",
+      "Edmund Spenser"
+    ],
+    "answer": 1,
+    "category": "Literature",
+    "explanation": "John Milton wrote 'Paradise Lost' in 1667, an epic poem about the fall of Adam and Eve."
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Mercury",
+      "Copper"
+    ],
+    "answer": 2,
+    "category": "Chemistry",
+    "explanation": "Mercury is the only metal that remains liquid at standard room temperature and pressure."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne."
+  },
+  {
+    "question": "Who founded Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates and Paul Allen",
+      "Larry Page",
+      "Mark Zuckerberg"
+    ],
+    "answer": 1,
+    "category": "Technology",
+    "explanation": "Microsoft was founded by Bill Gates and Paul Allen in 1975, becoming one of the world's largest software companies."
+  },
+  {
+    "question": "Which Indian classical dance form originated in Kerala?",
+    "options": [
+      "Bharatanatyam",
+      "Kathakali",
+      "Odissi",
+      "Kuchipudi"
+    ],
+    "answer": 1,
+    "category": "Culture",
+    "explanation": "Kathakali is a classical dance form that originated in Kerala, known for its elaborate makeup and costumes."
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "105°C"
+    ],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "Water boils at 100°C (212°F) at sea level under standard atmospheric pressure."
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": [
+      "Germany",
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "explanation": "Brazil has won the FIFA World Cup five times (1958, 1962, 1970, 1994, 2002), more than any other country."
+  },
+  {
+    "question": "What is the largest desert in Asia?",
+    "options": [
+      "Thar",
+      "Gobi",
+      "Karakum",
+      "Taklamakan"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "explanation": "The Gobi Desert, spanning Mongolia and northern China, is the largest desert in Asia."
+  },
+  {
+    "question": "Who invented the printing press?",
+    "options": [
+      "Johannes Gutenberg",
+      "Leonardo da Vinci",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "answer": 0,
+    "category": "History",
+    "explanation": "Johannes Gutenberg invented the printing press around 1440, revolutionizing the spread of knowledge."
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": 1,
+    "category": "Chemistry",
+    "explanation": "Hydrogen has atomic number 1, meaning it has one proton in its nucleus, making it the lightest element."
+  },
+  {
+    "question": "What is the national flower of India?",
+    "options": [
+      "Rose",
+      "Jasmine",
+      "Lotus",
+      "Marigold"
+    ],
+    "answer": 2,
+    "category": "Indian Symbols",
+    "explanation": "The lotus is India's national flower, symbolizing purity, beauty, and spiritual awakening in Indian culture."
+  },
+  {
+    "question": "Which ocean surrounds Antarctica?",
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Indian",
+      "Southern"
+    ],
+    "answer": 3,
+    "category": "Geography",
+    "explanation": "The Southern Ocean (also called Antarctic Ocean) completely surrounds Antarctica."
+  },
+  {
+    "question": "Who composed the music for India's national song 'Vande Mataram'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Sarojini Naidu",
+      "Allauddin Khan"
+    ],
+    "answer": 1,
+    "category": "Culture",
+    "explanation": "Bankim Chandra Chatterjee composed both the lyrics and music for 'Vande Mataram' in his novel Anandmath."
+  },
+  {
+    "question": "What is the study of earthquakes called?",
+    "options": [
+      "Geology",
+      "Seismology",
+      "Meteorology",
+      "Volcanology"
+    ],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth."
+  },
+  {
+    "question": "Which Indian mathematician is known for his contributions to number theory?",
+    "options": [
+      "Aryabhata",
+      "Srinivasa Ramanujan",
+      "Brahmagupta",
+      "Bhaskara"
+    ],
+    "answer": 1,
+    "category": "Mathematics",
+    "explanation": "Srinivasa Ramanujan made extraordinary contributions to number theory, infinite series, and mathematical analysis."
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Proton",
+      "Electron"
+    ],
+    "answer": 1,
+    "category": "Physics",
+    "explanation": "An atom is the smallest unit of matter that retains the properties of an element."
+  },
+  {
+    "question": "Which Indian city is famous for the Taj Mahal?",
+    "options": [
+      "Delhi",
+      "Lucknow",
+      "Agra",
+      "Varanasi"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "The Taj Mahal, a UNESCO World Heritage Site, is located in Agra, Uttar Pradesh."
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "answer": 1,
+    "category": "Literature",
+    "explanation": "William Shakespeare wrote the tragic play 'Romeo and Juliet' around 1595."
+  },
+  {
+    "question": "What is the hardest substance found naturally on Earth?",
+    "options": [
+      "Graphite",
+      "Quartz",
+      "Diamond",
+      "Steel"
+    ],
+    "answer": 2,
+    "category": "Science",
+    "explanation": "Diamond is the hardest naturally occurring substance, ranking 10 on the Mohs hardness scale."
+  },
+  {
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Ireland",
+      "Iceland"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "Ireland is called the 'Emerald Isle' due to its lush green landscapes and vegetation."
+  },
+  {
+    "question": "What does RAM stand for in computers?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Real Access Memory"
+    ],
+    "answer": 1,
+    "category": "Technology",
+    "explanation": "RAM stands for Random Access Memory, which stores data temporarily for quick access by the processor."
+  },
+  {
+    "question": "Which is the largest gland in the human body?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Kidney",
+      "Thyroid"
+    ],
+    "answer": 1,
+    "category": "Biology",
+    "explanation": "The liver is the largest gland in the human body, performing over 500 vital functions."
+  },
+  {
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": [
+      "PT Usha",
+      "Karnam Malleswari",
+      "Mary Kom",
+      "Saina Nehwal"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "explanation": "Karnam Malleswari won a bronze medal in weightlifting at the 2000 Sydney Olympics, becoming India's first woman Olympic medalist."
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": [
+      "3 × 10^8 m/s",
+      "2 × 10^8 m/s",
+      "4 × 10^8 m/s",
+      "1 × 10^8 m/s"
+    ],
+    "answer": 0,
+    "category": "Physics",
+    "explanation": "The speed of light in vacuum is approximately 3 × 10^8 meters per second, a fundamental constant in physics."
+  },
+  {
+    "question": "Which Indian state is known for producing the most tea?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Assam",
+      "West Bengal"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "Assam is India's largest tea-producing state, contributing over 50% of India's total tea production."
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "options": [
+      "James Watson and Francis Crick",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Louis Pasteur"
+    ],
+    "answer": 0,
+    "category": "Science",
+    "explanation": "James Watson and Francis Crick discovered the double helix structure of DNA in 1953, with contributions from Rosalind Franklin."
+  },
+  {
+    "question": "What is the largest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur",
+      "Radius"
+    ],
+    "answer": 2,
+    "category": "Biology",
+    "explanation": "The femur (thighbone) is the largest, longest, and strongest bone in the human body."
+  },
+  {
+    "question": "Which programming language was developed by James Gosling?",
+    "options": [
+      "Python",
+      "C++",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": 2,
+    "category": "Technology",
+    "explanation": "Java was developed by James Gosling at Sun Microsystems in 1995, designed for platform independence."
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "-1°C",
+      "0°C",
+      "1°C",
+      "2°C"
+    ],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Water freezes at 0°C (32°F) under standard atmospheric pressure, the point where liquid becomes solid ice."
+  },
+  {
+    "question": "Which Indian freedom fighter was known as 'Netaji'?",
+    "options": [
+      "Bhagat Singh",
+      "Chandrashekhar Azad",
+      "Subhas Chandra Bose",
+      "Rajguru"
+    ],
+    "answer": 2,
+    "category": "History",
+    "explanation": "Subhas Chandra Bose was fondly called 'Netaji' and led the Indian National Army against British rule."
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Nauru",
+      "Vatican City",
+      "San Marino"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "Vatican City is the smallest sovereign state in the world, covering only 0.17 square miles."
+  },
+  {
+    "question": "Who invented the steam engine?",
+    "options": [
+      "James Watt",
+      "George Stephenson",
+      "Robert Fulton",
+      "Thomas Newcomen"
+    ],
+    "answer": 0,
+    "category": "History",
+    "explanation": "James Watt significantly improved the steam engine in 1769, making it practical for industrial use."
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "options": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "answer": 3,
+    "category": "Biology",
+    "explanation": "O-negative blood type is the universal donor as it can be given to people with any blood type."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "explanation": "Ottawa is the capital city of Canada, located in the province of Ontario."
+  },
+  {
+    "question": "Which Indian app was banned in 2020 along with TikTok?",
+    "options": [
+      "ShareIt",
+      "UC Browser",
+      "CamScanner",
+      "All of the above"
+    ],
+    "answer": 3,
+    "category": "Current Affairs",
+    "explanation": "India banned 59 Chinese apps including TikTok, ShareIt, UC Browser, and CamScanner in June 2020."
+  },
+  {
+    "question": "What is the largest volcano in the solar system?",
+    "options": [
+      "Mount Vesuvius",
+      "Olympus Mons",
+      "Mauna Loa",
+      "Mount Fuji"
+    ],
+    "answer": 1,
+    "category": "Science",
+    "explanation": "Olympus Mons on Mars is the largest volcano in the solar system
+
 
 
